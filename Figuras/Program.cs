@@ -11,6 +11,7 @@ namespace Figuras
         static void Main(string[] args)
         {
             Console.WriteLine("!Hola Mundo!");
+            Console.Writeline("Soy p#to");
             Console.ReadKey();
         }
     }
