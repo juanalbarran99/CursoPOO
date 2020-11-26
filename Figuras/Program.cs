@@ -24,7 +24,7 @@ namespace Figuras
         {
             Console.WriteLine("!Hola Mundo!");
             Console.Writeline("Soy p#to");
-            Console.WriteLine("Me la pela el america, como que no te sale men nmms")
+            Console.WriteLine("Me la pela el america, como que no te sale men nmms wey ya nmms ya esta bien porque no te sale che bato")
             Console.ReadKey();
         }
     }
