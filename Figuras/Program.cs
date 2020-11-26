@@ -8,8 +8,16 @@ namespace Figuras
 {
     class Figura
     {
-        
+        public int Rx, Ry;
+        public Figura(int Rx, int Ry)
+       {
+            this.Rx = Rx;
+            this.Ry = Ry;
+    
+       }
     }
+   
+
     class Program
     {
         static void Main(string[] args)
