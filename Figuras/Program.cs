@@ -23,7 +23,7 @@ namespace Figuras
         static void Main(string[] args)
         {
             Console.WriteLine("!Hola Mundo!");
-            Console.Writeline("Soy p#to");
+            Console.Writeline("Soy p#to, tengo hambre");
             Console.WriteLine("Me la pela el america, como que no te sale men nmms wey ya nmms ya esta bien porque no te sale che bato")
             Console.ReadKey();
         }
